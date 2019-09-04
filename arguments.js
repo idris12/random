@@ -26,3 +26,11 @@ let tip = function (total, tipPercent = .2) {
 
 let tipCalculator = tip(1000)
 console.log(tipCalculator)
+
+
+let sum = function(a, b) {
+   return a + b
+}
+
+let result = sum(20, 60)
+console.log(result)
